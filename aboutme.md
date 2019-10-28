@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I'm a Growth Marketer and Product Manager based in Chicago
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My Name is Noah Manion. I'm a Growth Marketer and Produt Manager. I'm available for both full time and contract work. I'm based in Chicago but have extensive experience working with Remote teams.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm Very Good At:
+- Acqusition
+- Data Analytics
+- Conversion Rate Optimization
 
-What else do you need?
+I'm Good At:
+- Light Development Work
+- SEO
+- Content Marketing
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My History
+
+I have a BA in Liberal Arts from the Eugene Lang College (at the New School University). During college, I worked as a transportation planner and developed an interest in Digital Products & Marketing 
