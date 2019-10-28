@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Noah Manion('s Website)
+title: Noah Manion
 
 # Short description of your site
 description: Growth Marketing in Chicago
@@ -21,12 +21,12 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Stuff I've Done:
     - My Resume: "resume"
     - Case Studies: "case"
     - Quiz: "quiz"
     - Landing Pages: "landing"
-  Home: "https://noahs.website"
+  Posts: "postindex"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
